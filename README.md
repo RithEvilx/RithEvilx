@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Sok Sovannarith</h1>
 <h3 align="center">A passionate Front-End developer from Cambodia</h3>
 
-<img align="right" alt="coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgiphy.com%2Fexplore%2Fprogrammer&psig=AOvVaw2nwbyFwT2-Yty5tWPvPSP0&ust=1694609331947000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCPi6hu2NpYEDFQAAAAAdAAAAABAE">
+<img align="right" alt="coding" width="400" src="![image](https://github.com/RithEvilx/RithEvilx/assets/116547950/a5506201-dcb2-42ef-9006-c4675efe3c22)
+">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rithevilx&label=Profile%20views&color=0e75b6&style=flat" alt="rithevilx" /> </p>
 
