@@ -9,7 +9,7 @@
 
 - 📫 How to reach me <a hrf="mailto:soksovannarithx@gmail.com">**soksovannarithx@gmail.com**</a>
 
-- 📄 Know about my experiences <a href="https://drive.google.com/file/d/1wPFQozd3QPuDCt9ntHsUpwFCm77kr5Pq/view?usp=drive_link">[Click Here!]</a>
+- 📄 Know about my experiences <a href="https://drive.google.com/file/d/1wPFQozd3QPuDCt9ntHsUpwFCm77kr5Pq/view?usp=drive_link">[See my resume!]</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
