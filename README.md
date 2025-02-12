@@ -3,11 +3,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rithevilx" alt="rithevilx" /></a> </p>
 
-- 🌱 I’m currently learning **React JS & MySQL**
+- 🌱 I’m currently learning **MERN Stack**
 
 - 👨‍💻 All of my projects are available at [https://rithevilx.github.io/soksovannarith/](https://rithevilx.github.io/soksovannarith/)
 
-- 📫 How to reach me **sovannarith22317@gmail.com**
+- 📫 How to reach me <a hrf="mailto:soksovannarithx@gmail.com">**soksovannarithx@gmail.com**</a>
 
 - 📄 Know about my experiences <a href="https://drive.google.com/file/d/1wPFQozd3QPuDCt9ntHsUpwFCm77kr5Pq/view?usp=drive_link">[Click Here!]</a>
 
