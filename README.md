@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rithevilx" alt="rithevilx" /></a> </p>
 
-- 🌱 I’m currently learning ****
+- 🌱 I’m currently learning TypeScript + Chakra UI v3.21.0
 
 - 👨‍💻 All of my projects are available at [https://rithevilx.github.io/soksovannarith/](https://rithevilx.github.io/soksovannarith/)
 
