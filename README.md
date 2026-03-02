@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning TypeScript + Chakra UI v3.21.0
 
-- 👨‍💻 All of my projects are available at [https://rithevilx.github.io/soksovannarith/](https://rithevilx.github.io/soksovannarith/)
+- 👨‍💻 All of my projects are available at [https://sok-sovannarith.vercel.app](https://sok-sovannarith.vercel.app)
 
 - 📫 How to reach me <a hrf="mailto:soksovannarithx@gmail.com">**soksovannarithx@gmail.com**</a>
 
