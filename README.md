@@ -5,11 +5,11 @@
 
 - 🌱 I’m currently learning TypeScript + Chakra UI v3.21.0
 
-- 👨‍💻 All of my projects are available at [https://sok-sovannarith.vercel.app](https://sok-sovannarith.vercel.app)
+- 👨‍💻 All of my projects are available at <a href="https://sok-sovannarith.vercel.app" traget="_blank">[https://sok-sovannarith.vercel.app]</a>
 
 - 📫 How to reach me <a hrf="mailto:soksovannarithx@gmail.com">**soksovannarithx@gmail.com**</a>
 
-- 📄 Know about my experiences <a href="https://drive.google.com/file/d/1wPFQozd3QPuDCt9ntHsUpwFCm77kr5Pq/view?usp=drive_link">[See my resume!]</a>
+- 📄 Know about my experiences <a href="https://sok-sovannarith.vercel.app/resume" traget="_blank">[See my resume!]</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
