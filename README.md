@@ -4,11 +4,11 @@
 
 - 🌱 I’m currently learning TypeScript + Spring Boot
 
-- 👨‍💻 All of my projects are available at <a href="https://sok-sovannarith.vercel.app" target="_blank" rel="noreferrer">[https://sok-sovannarith.vercel.app]</a>
+- 👨‍💻 All of my projects are available at <a href="https://soksovannarith.vercel.app" target="_blank" rel="noreferrer">[https://soksovannarith.vercel.app]</a>
 
 - 📫 How to reach me <a hrf="mailto:soksovannarithx@gmail.com">**soksovannarithx@gmail.com**</a>
 
-- 📄 Know about my experiences <a href="https://sok-sovannarith.vercel.app/resume" target="_blank" rel="noreferrer">[See my resume!]</a>
+- 📄 Know about my experiences <a href="https://soksovannarith.vercel.app/resume" target="_blank" rel="noreferrer">[See my resume!]</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
