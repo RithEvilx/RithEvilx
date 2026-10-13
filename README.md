@@ -2,7 +2,7 @@
 <h3 align="center">A passionate frontend developer from Cambodia.</h3>
 
 
-- 🌱 I’m currently learning TypeScript + Spring Boot
+- 🌱 I’m currently learning NextJS
 
 - 👨‍💻 All of my projects are available at <a href="https://soksovannarith.vercel.app" target="_blank" rel="noreferrer">[https://soksovannarith.vercel.app]</a>
 
